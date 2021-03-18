@@ -261,7 +261,7 @@ export const getPosts = () => {
   firebase.firestore().collection("post").orderBy('date', 'desc')
     .get()
     .then(function (querySnapshot) {
-      feedPost.innerHTML = ``
+      feedPost.innerHTML = ``;
       textPost.value = "";
       querySnapshot.forEach(function (doc) {
         const id = doc.id;
