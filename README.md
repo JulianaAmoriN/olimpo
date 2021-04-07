@@ -56,16 +56,8 @@ Ele é uma  Rede Social em construção, suas funções atuais são:
 
 ### Linguagens e Ferramentas 
 Linguagens e ferramentas usadas para elaboração do projeto : 
-* [<img  src="https://img.shields.io/static/v1?label=CSS&message=3&color=0368FF"/>
- ](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [<img  src="https://img.shields.io/static/v1?label=Html&message=5&color=FF7C03"/>
-](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-* [<img  src="https://img.shields.io/static/v1?label=JavaScript&message=JS&color=FFF603"/>
- ](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript)
- * [<img  src="https://img.shields.io/static/v1?label=Trello&message=Agile|Kanban&color=0368FF"/>
- ](https://trello.com/)
-  * [<img  src="https://img.shields.io/static/v1?label=Firebase&message=Google&color=FF1616"/>
- ](https://firebase.google.com/?hl=pt-br)
+
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img  src="https://img.shields.io/static/v1?label=Trello&message=Agile&color=0368FF" width="100" /> <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   
 
 
