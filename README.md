@@ -1,98 +1,102 @@
-<img src = "./src/images/olimpo.png" height='150' widht='150'>
 
-## Índice
+<h1 align="center">< Olimpo - Rede Social/> </h1>
+<h3 align="center"> Projeto desenvolvido no bootcamp da Laboratoria </h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> 
+</p>
 
-- [1. Descrição](#1-descrição)
-- [2. Conheça Olimpo](#2-conheça-olimpo)
-- [3. Definições do produto](#3-definições-do-produto)
-- [4. Implementações futuras](#4-implementações-futuras)
-- [5. Tecnologias utilizadas](#5-tecnologias-utilizadas)
-- [6. Considerações finais](#6-considerações-finais)
-- [7. Desenvolvedoras](#7-desenvolvedoras)
+<p align="center"> 
+<a href="https://github.com/JulianaAmoriN/Olimpo"><strong>Explorar Docs</a>
+    ·
+<a href="https://github.com/JulianaAmoriN/Olimpo/issues">Reportar Bug</a>
+ ·
+<a href="https://rede-social-db4df.web.app/">Deploy</a>
+</p>
 
----
+<details open="open">
+  <summary><h4>Sumário</h4></summary>
+  <ol>
+    <li>
+      <a href="#sobre-o-projeto">Sobre o projeto</a>
+      <ul>
+        <li><a href="#linguagens-e-ferramentas">Linguagens e Ferramentas</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#aplicativo">Aplicativo</a> 
+       <ul>
+        <li><a href="#link-deploy">Link Deploy</a></li>
+      </ul>
+    </li>
+    <li><a href="#contribua">Contribuidua</a></li>
+    <li><a href="#contato">Contato</a></li>
+    <li><a href="#agradecimento">Agradecimento</a></li>
+  </ol>
+</details>
 
-## 1. Descrição
+## Sobre o projeto
+<p align="center">
+<img src="https://github.com/JulianaAmoriN/Olimpo/blob/master/src/images/olimpo.png?raw=true" width="50%" height="50%">
+</p>
 
-Projeto realizado durante o [**Bootcamp Laboratória - SAP005**]("http://laboratoria.la"), com intuito de criarmos uma rede social.
+**Olimpo** foi  desenvolvido durante o **bootcamp da  [Laboratória](https://www.laboratoria.la/br)**. 
 
-## 2. Conheça Olimpo
+Ele é uma  Rede Social em construção, suas funções atuais são:
 
-Olimpo é a rede social dos apaixonados por esportes e atividades físicas. Criada para unir pessoas que queiram compartilhar seus treinos diários, conquistas em equipe ou participar de conversas e debates sobre este universo.
+ - [x] permitir à qualquer usuário criar uma conta de acesso,   
+ - [x] logar-se,
+ - [x] criar, editar, deletar e dar  _likes_ em publicações.
+ 
+ Além disso ele é uma [Single-page Application (SPA)](https://pt.wikipedia.org/wiki/Aplicativo_de_p%C3%A1gina_%C3%BAnica)  [_responsiva_](https://github.com/Laboratoria/curricula-js/tree/master/topics/css/02-responsive) (com mais de uma tela/ página) possíveis de **ler e escrever dados.**
 
-*Para fazer parte do Olimpo acesse:* https://rede-social-db4df.web.app/
+Áreas como chat e perfil estão em construção e serão implementações futuras da aplicação. 
 
-## 3. Definições do produto
-
-Realizamos uma pesquisa com nossos usuários em potencial para definirmos o que seria mais relevante aparecer nas telas do Olimpo:
-
-![imagem](./src/images/readme/form2.png)
-![imagem](./src/images/readme/form3.png)
-![imagem](./src/images/readme/form1.png)
-![imagem](./src/images/readme/form4.png)
-
-### Histórias de usuários
-
-Para este projeto, trabalhamos com as seguintes histórias de usuário, de acordo com as necessidades apontadas em nossa pesquisa:
-
-![imagem](./src/images/readme/historia.user1.png)
-
-![imagem](./src/images/readme/historia.user2.png)
-
-### Protótipos
-
-Antes de colocar as mãos no código, e trazer o Olimpo a todos, desenhamos o que seria nossas telas principais:
-
-_*Versão Mobile*_
-
-![imagem](./src/images/readme/prototipo2.png)
-
-_*Versão Desktop*_
-![imagem](./src/images/readme/prototipo.png)
-
-_*Visualização da página*_
-
-![Watch the video](https://media.giphy.com/media/YOaozd4lVfvLbcPiLb/giphy.gif)
-
-
-## 4. Implementações futuras
-
-- Permitir incluir imagens nas postagens;
-
-- Permitir comentar nos posts;
-
-- Criação da página de perfil dos nossos usuários;
-
-- Envio de mensagens privadas;
-
-- Implementar a parte de notificações;
-
-- Alterar foto de perfil.
-
-## 5. Tecnologias utilizadas
-
-Para a realização deste projeto utilizamos:
-
-- Firebase; :open_file_folder:
-
-- Trello; :calendar:
-
-- Visual Studio Code; :computer:
-
-- PowerPoint; :card_index:  
-
-- Moqups.:pencil:
-
-## 6. Considerações finais
-
-Gostaríamos de agradecer primeiramente a nossos familiares e amigos que se dispuseram a contribuir e auxiliar na fase de ideação e criação de Olimpo.
-A toda equipe Laboratória pelo auxílio e empenho. A nossas colegas da SAP005 que caminharam conosco, compartilhando os conhecimentos e descobertas, e as queridas ex-alunas que foram luz em muitos momentos de dúvidas.
+### Linguagens e Ferramentas 
+Linguagens e ferramentas usadas para elaboração do projeto : 
+* [<img  src="https://img.shields.io/static/v1?label=CSS&message=3&color=0368FF"/>
+ ](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [<img  src="https://img.shields.io/static/v1?label=Html&message=5&color=FF7C03"/>
+](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [<img  src="https://img.shields.io/static/v1?label=JavaScript&message=JS&color=FFF603"/>
+ ](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript)
+ * [<img  src="https://img.shields.io/static/v1?label=Trello&message=Agile Kanban&color=0368FF"/>
+ ](https://trello.com/)
+  * [<img  src="https://img.shields.io/static/v1?label=Firebase&message=Google&color=FF1616"/>
+ ](https://firebase.google.com/?hl=pt-br)
+  
 
 
-## 7. Desenvolvedoras 
+## Aplicativo
+<p align="center">
+<img src="https://github.com/JulianaAmoriN/Olimpo/blob/master/src/images/readme/girTelaOlimpo.gif?raw=true" >
+</p>
 
-Este projeto foi realizado por  <a href="https://github.com/giomadeira">Giovana Madeira</a>,
-<a href="https://github.com/JulianaAmoriN">Juliana Silveira</a>, e 
-<a href="https://github.com/Costahadassa">Hadassa Costa </a>. :rocket:
+### Link Deploy
+💻👉🏽 [Olimpo ](https://rede-social-db4df.web.app/)
 
----
+## Contribua
+
+As contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são ** muito apreciadas **.
+
+1. Faça um fork do projeto
+2. Crie seu Feature Branch (`git checkout -b feature / AmazingFeature`)
+3. Faça commit de suas alterações (`git commit -m 'Add some AmazingFeature'`)
+4. Envie para a Branch (`git push origin feature / AmazingFeature`)
+5. Abra uma solicitação pull
+
+## Contato
+
+Juliana Silveira - [Linkedin](https://www.linkedin.com/in/juliana-silveira-nascimento/)- juamorim.sn@gmail.com
+
+## Agradecimento
+
+ - [IsabellaSoares ](https://github.com/IsabellaSoares)
+ 
+ - [Cíntia Fumi](https://github.com/cintiafumi)
+ 
+ - [Giovana Madeira (coautora)](https://github.com/giomadeira)
+ 
+ - [Hadassa Costa (coautora)](https://github.com/Costahadassa)
