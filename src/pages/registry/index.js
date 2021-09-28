@@ -1,11 +1,16 @@
-import { newRegistry } from '/services/index.js';
+import {
+  newRegistry
+} from '/services/index.js';
+import {
+  onNavigate
+} from '../../utils/history.js';
 
 export const Registry = () => {
   const rootElement = document.createElement('div');
   rootElement.innerHTML = `
      <div class="container-login dysplay-template">
          <div class="box-login">
-             <img src="images/olimpo.png" class="login-icon"> 
+             <img src="images/olimpo.png" class="login-icon" id="icon-olimpo"> 
              <form  id ="formLogin" class="login">
                  <h1 >Registre-se!</h1>
                  <input id="txtName"class="btn"  type="name" placeholder="Digite seu nome" >
@@ -29,6 +34,14 @@ export const Registry = () => {
     const senha = txtPassword.value;
     newRegistry(email, senha, nameUser);
   });
+
+  const imgOlimpo = rootElement.querySelector('#icon-olimpo');
+  imgOlimpo.addEventListener('click', (event) => {
+    event.preventDefault();
+    onNavigate('/login');
+  });
+
+  
 
   return rootElement;
 };

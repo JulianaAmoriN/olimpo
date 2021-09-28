@@ -31,6 +31,7 @@
         <li><a href="#link-deploy">Link Deploy</a></li>
       </ul>
     </li>
+    <li><a href="#instalacao">Instalção</a></li>
     <li><a href="#contribua">Contribuidua</a></li>
     <li><a href="#contato">Contato</a></li>
     <li><a href="#agradecimento">Agradecimento</a></li>
@@ -68,6 +69,14 @@ Linguagens e ferramentas usadas para elaboração do projeto :
 
 ### Link Deploy
 💻👉🏽 [Olimpo ](https://rede-social-db4df.web.app/)
+
+
+## Instalação
+Instale o npm `npm install`.
+Instale o Firebase `sudo npm install -g firebase-tools`.
+Faça o login `firebase login`.
+Inicialize o npm `npm start`.
+O locar server será :  http://localhost:5000
 
 ## Contribua
 
