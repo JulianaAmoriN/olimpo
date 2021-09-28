@@ -72,11 +72,11 @@ Linguagens e ferramentas usadas para elaboração do projeto :
 
 
 ## Instalação
-Instale o npm `npm install`.
-Instale o Firebase `sudo npm install -g firebase-tools`.
-Faça o login `firebase login`.
-Inicialize o npm `npm start`.
-O locar server será :  http://localhost:5000
+Instale o npm `npm install`. <br>
+Instale o Firebase `sudo npm install -g firebase-tools`. <br>
+Faça o login `firebase login`. <br>
+Inicialize o npm `npm start`. <br>
+O locar server será :  http://localhost:5000 <br>
 
 ## Contribua
 
